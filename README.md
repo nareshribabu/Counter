@@ -3,7 +3,7 @@ Helps you keep count.
 
 Can be used as a replacement for a traditional counter.
 
-User can input their target number that they want to count uptil. </br>
+User can input their target number that they want to count until. </br>
 They can increase or decrease the count by tapping the "+" and "-" buttons. <br/>
 Once their goal is reached, the app will let the user know. <br/>
 
